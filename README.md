@@ -1,12 +1,14 @@
 ![logo](https://github.com/AlexJLabajeroJr/Me/blob/master/Github%20Banner.png)
  <h1 align="center">Hi 👋, I'm Alex J.Labajero Jr.</h1>
-
-- 🔭 I’m currently working on Flutter
+   <div align = "center">
+    - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: alexlabajerojr@thelewiscollege.edu.ph
 - 😄 My website: https://thetechbrothers.net
 - ⚡ Fun fact: I'm comming to teen
+   </div>
+
   
 ### Connect with me:
 <div id="badges">

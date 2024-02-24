@@ -1,5 +1,5 @@
 ![logo](https://github.com/AlexJLabajeroJr/AlexJLabajeroJr/blob/main/HOWARD%20ONG%20(1).png)
- <h1 align="center">Hi 👋, I'm Alex J.Labajero Jr.</h1>
+
    <div align = "center">
   <p>- 🔭 I’m currently working on Flutter</p>  
     <p>- 🌱 I’m currently learning Backend</p>

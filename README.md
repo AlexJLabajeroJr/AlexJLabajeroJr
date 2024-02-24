@@ -1,4 +1,4 @@
-![logo](https://github.com/AlexJLabajeroJr/Me/blob/master/Github%20Banner.png)
+![logo](https://github.com/AlexJLabajeroJr/AlexJLabajeroJr/blob/main/Github%20banner.png)
  <h1 align="center">Hi 👋, I'm Alex J.Labajero Jr.</h1>
    <div align = "center">
   <p>- 🔭 I’m currently working on Flutter</p>  

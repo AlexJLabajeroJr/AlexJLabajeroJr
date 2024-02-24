@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
+- 📫 How to reach me: alexlabajerojr@thelewiscollege.edu.ph
 - 😄 My website: https://thetechbrothers.net
 - ⚡ Fun fact: I'm comming to teen
   

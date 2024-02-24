@@ -1,6 +1,6 @@
 <div style="background-color: #0d1117; color: #c9d1d9; padding: 20px;">
     <img src="https://github.com/AlexJLabajeroJr/Me/blob/master/Github%20Banner.png" alt="logo" />
-<h1 align="center">Hi 👋, I'm Alex J.Labajero Jr.</h1>
+    <h1 align="center">Hi 👋, I'm Alex J.Labajero Jr.</h1>
 
     <ul>
         <li>🔭 I’m currently working on Flutter</li>

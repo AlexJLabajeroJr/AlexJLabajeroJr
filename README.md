@@ -5,7 +5,7 @@
     <p>- 🌱 I’m currently learning Backend</p>
   <p>- 💬 Ask me anything about Flutter </p>
  <p>- 📫 How to reach me: alexlabajerojr@thelewiscollege.edu.ph</p>
-  <p>- 😄 My website: https://thetechbrothers.net</p>
+  <p>- 😄 This is the link to my weekly blog documenting my 486-hour internship at DICT: https://alexlabajerojr.wixsite.com/my-site-1</p>
   <p>- ⚡ Fun fact: I'm comming to teen</p>
 
    </div>

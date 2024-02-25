@@ -24,31 +24,18 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex" height="30" width="40" /></a>
-<a href="https://fb.com/alex joven labajero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alex joven labajero" height="30" width="40" /></a>
-<a href="https://instagram.com/xela_lab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xela_lab" height="30" width="40" /></a>
-<a href="https://dribbble.com/alex labajero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="alex labajero" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alex labajero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alex labajero" height="30" width="40" /></a>
-<a href="https://discord.gg/snk|xela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="snk|xela" height="30" width="40" /></a>
-</p>
-
-<div id="badges">
-  <a align = "center" href="https://github.com/AlexJLabajeroJr">
+   <a align = "center" href="https://github.com/AlexJLabajeroJr">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a  align = "center" href="https://www.youtube.com/channel/UCPNZIt7whri_XNuWXQ4HS9A">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-   <a  align = "center" href="https://www.instagram.com/xela_lab/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a  align = "center" href="https://www.facebook.com/bhoxszalex.labajero">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <a align = "center" href="https://twitter.com/axiftaj">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/alex-labajero-93295529b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex" height="30" width="40" /></a>
+<a href="https://www.facebook.com/bhoxszalex.labajero" height="30" width="40" /></a>
+<a href="https://www.instagram.com/xela_lab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xela_lab" height="30" width="40" /></a>
+<a href="https://dribbble.com/alex labajero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="alex labajero" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCPNZIt7whri_XNuWXQ4HS9A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alex labajero" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/xela#5799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="snk|xela" height="30" width="40" /></a>
+</p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>

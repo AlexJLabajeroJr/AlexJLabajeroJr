@@ -23,7 +23,14 @@
 
 <h3 align="left">Connect with me:</h3>
 
-
+<p align="left">
+<a href="https://linkedin.com/in/alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex" height="30" width="40" /></a>
+<a href="https://fb.com/alex joven labajero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alex joven labajero" height="30" width="40" /></a>
+<a href="https://instagram.com/xela_lab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xela_lab" height="30" width="40" /></a>
+<a href="https://dribbble.com/alex labajero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="alex labajero" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/alex labajero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alex labajero" height="30" width="40" /></a>
+<a href="https://discord.gg/snk|xela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="snk|xela" height="30" width="40" /></a>
+</p>
 
 <div id="badges">
   <a align = "center" href="https://github.com/AlexJLabajeroJr">
